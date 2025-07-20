@@ -1,0 +1,73 @@
+Anime Image Repository – Custom Restricted License  
+Copyright (c) 2025 JinxieProtocol
+
+This license governs the use, modification, and distribution of the contents contained within this repository. By accessing or using this repository, you acknowledge that you have read, understood, and agree to be bound by the following terms.
+
+1. Purpose and Scope
+This repository is intended solely for:
+- Personal, educational, research, archival, and fan documentation purposes.
+- Non-commercial use only.
+
+The repository includes scripts, metadata, organizational structures, and curated image files sourced from third-party platforms. The repository may include both Safe For Work (SFW) and Not Safe For Work (NSFW) content. The image content is not open source and remains subject to the rights of the original creators.
+
+2. Prohibited Uses
+You are expressly prohibited from:
+- Removing or altering watermarks, signatures, or credit information embedded in or accompanying any image.
+- Republishing, redistributing, or hosting the content from this repository on public platforms, websites, bots, mirrors, or imageboards without explicit permission.
+- Monetizing, tokenizing (e.g., NFTs), or integrating the image content in any commercial service or product.
+- Using this repository, in whole or in part, to build datasets for machine learning, artificial intelligence, or deep learning systems unless the content used is clearly and explicitly labeled as “AI-generated”.
+- Using the repository to promote, facilitate, or justify any illegal activities under local, national, or international law.
+
+3. Attribution and Credit
+All contributors must:
+- Include a `credit.txt` file in each character folder containing contributor name and, where available, the original artist’s name and source URL.
+- Preserve all existing credit information when forking, modifying, or using content.
+- Clearly mark AI-generated content and must not falsely attribute such work to any human artist.
+
+Any act of removing credits with the intention to pass off the artwork as your own is a breach of both this license and general ethical standards. If you are unwilling to respect the work of artists by retaining their names, you are advised to create original illustrations through your own effort. Artistic integrity requires creation, not appropriation.
+
+4. NSFW Content Access
+By accessing NSFW-designated folders or files, you affirm that:
+- You are at least 18 years of age or of legal age to view adult content in your jurisdiction.
+- You agree not to redistribute NSFW content publicly or host it in environments accessible to minors or unintended audiences.
+- You will not utilize NSFW content for AI model training or public dissemination unless explicitly authorized.
+
+5. AI-Generated Content
+Only clearly labeled AI-generated images are exempt from standard artist restrictions. Even in such cases:
+- Attribution to the AI process or creator must be retained.
+- AI-generated works must not impersonate the style, signature, or identity of real human artists.
+
+6. Takedown Policy
+The repository maintains a strict compliance policy regarding artist rights and community standards. Any request for removal based on rightful ownership or copyright claim shall be honored. Submit takedown requests via GitHub Issue or directly to the repository maintainer.
+
+Valid requests should include:
+- Direct links to the infringing content
+- Proof of ownership or authorship
+- Preferred method of resolution (removal, credit correction, etc.)
+
+All valid takedown requests will be reviewed within 72 hours.
+
+7. Code Licensing
+All code, scripts, and utilities within the repository (excluding images and media content) are released under the MIT License. Please refer to the `MIT-LICENSE.txt` file for applicable terms.
+
+8. No Warranty
+All materials provided in this repository are supplied “as is” without any warranty, either express or implied. The repository maintainers make no guarantees regarding the accuracy, legality, or reliability of any content.
+
+You use the content at your own risk and are solely responsible for ensuring compliance with your local laws and regulations.
+
+9. Enforcement and Violations
+Any individual or entity found violating the terms of this license may be:
+- Permanently banned from contributing to or accessing the repository.
+- Subject to public disclosure of violations.
+- Reported to hosting services, organizations, or platforms as necessary.
+
+10. Jurisdiction
+This license shall be governed by and construed in accordance with the laws of the applicable international copyright and intellectual property standards. You are responsible for complying with the laws of your own country when using this repository.
+
+11. Final Clause
+Respect is the foundation of creative communities. Those who wish to participate in this repository must understand that art is not to be stolen, erased, or claimed. If you lack the decency to give credit, you lack the right to use the content.
+
+All rights not explicitly granted herein are reserved.
+
+Copyright © 2025  
+Maintainer: JinxieProtocol
